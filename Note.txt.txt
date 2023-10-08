@@ -1,0 +1,7 @@
+Require to run the project
+
+Java 1.8  
+Maven dependency
+Selenium 4.12.0
+Cucumber 7.13
+Cucumber java 7.13
